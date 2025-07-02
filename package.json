@@ -31,10 +31,10 @@
   },
   "devDependencies": {
     "@angular/build": "^20.0.5",
-    "@angular/cdk": "^18.2.14",
+    "@angular/cdk": "^19.2.19",
     "@angular/cli": "^20.0.5",
     "@angular/compiler-cli": "^20.0.6",
-    "@angular/material": "^18.2.14",
+    "@angular/material": "^19.2.19",
     "@types/express": "^4.17.17",
     "@types/jasmine": "~5.1.0",
     "@types/node": "^18.18.0",
