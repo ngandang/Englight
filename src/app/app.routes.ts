@@ -21,7 +21,7 @@ export const routes: Routes = [
 	},
 	{
 		path: 'grammar',
-		loadChildren: () => import('./grammar/grammar.module').then(m => m.GrammarModule)
+		loadChildren: () => import('./grammar/grammar/grammar.component').then(m => m.GrammarComponent)
 	},
 	{ path: 'login', component: LoginComponent },
 ];
