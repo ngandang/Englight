@@ -4,7 +4,7 @@
 
 **This project uses Gemini AI API for content generation, translation, and quizzes.**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 20.0.6.
 
 ## Development server
 
